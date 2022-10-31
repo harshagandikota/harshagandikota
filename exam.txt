@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 exam file is created /modified changes made and edited again 
+=======
+exam file is created /modified changes madeand saved 
+>>>>>>> test

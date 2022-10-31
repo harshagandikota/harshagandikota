@@ -1,5 +1,9 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 test.txt file is created / edited changes modifed
 =======
 test.txt file is created / edited/redidted
+>>>>>>> test
+=======
+test.txt file is created / edited/redidted changes made
 >>>>>>> test
